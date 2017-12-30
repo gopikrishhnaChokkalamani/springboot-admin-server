@@ -1,0 +1,6 @@
+server:
+  port: 9889
+security:
+  user:
+    name: admin
+    password: admin

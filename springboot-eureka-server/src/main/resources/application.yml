@@ -1,0 +1,10 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: eureka-server
+  boot:
+    admin:
+      username: admin
+      password: admin
+      url: http://localhost:9889
